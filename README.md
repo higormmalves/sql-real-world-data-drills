@@ -20,23 +20,23 @@ Como um profissional focado em dados, utilizo estes desafios para consolidar té
 
 Os exercícios estão organizados abaixo por nível de dificuldade, detalhando o contexto de negócio e as principais técnicas de SQL praticadas em cada um.
 
-| 🧩 Desafio  🎯 Habilidades Técnicas Praticadas |
-| :---  :--- |
-| **Rolling Up, Looking Back** | Agrupamentos e análise de variação mês a mês (MoM).               |
-| **Final Form** | Desduplicação de registros, priorizando a linha mais recente.                   |
-| **Making the Cut** | Categorização de dados (*binning*) e cálculos de intervalos de tempo.       |
-| **Turning Bullish** | Cálculos móveis (*rolling averages*) e criação de *flags* condicionais.    |
-| **Readmission Radar** | Janelas de tempo móveis e pareamento de eventos.                         |
-| **Splitting the Field** | Agregações baseadas em campos de múltiplos valores.                    |
-| **Movie Metrics** | Engenharia de *features* usando lógica condicional e agregações.             |
-| **Flatten the Stack** | Transformação de colunas JSON aninhadas para formato tabular.            |
+|| 🧩 Desafio | 🎯 Habilidades Técnicas Praticadas |
+| :--- | :--- |
+| **Rolling Up, Looking Back** | Agrupamentos e análise de variação mês a mês (MoM). |
+| **Final Form** | Desduplicação de registros, priorizando a linha mais recente. |
+| **Making the Cut** | Categorização de dados (*binning*) e cálculos de intervalos de tempo. |
+| **Turning Bullish** | Cálculos móveis (*rolling averages*) e criação de *flags* condicionais. |
+| **Readmission Radar** | Janelas de tempo móveis e pareamento de eventos. |
+| **Splitting the Field** | Agregações baseadas em campos de múltiplos valores. |
+| **Movie Metrics** | Engenharia de *features* usando lógica condicional e agregações. |
+| **Flatten the Stack** | Transformação de colunas JSON aninhadas para formato tabular. |
 | **Estimate the Estate** | Preenchimento de nulos (*imputation*) com médias e lógica condicional. |
-| **Spot the Sale** | *Joins* não tradicionais baseados em intervalos de datas.                    |
-| **Booking Breakdown** | Expansão de intervalos de datas e filtragem avançada.                    |
-| **The Price is Right** | Técnicas de *Slowly Changing Dimensions* (SCD).                         |
-| **Streak Leaderboard** | Comparações de datas, funções LAG e lógica de sequências (*streaks*).   |
-| **Cart Combos** | *Market Basket Analysis* (Análise de afinidade) e *Self-joins*.                |
-| **Org Chart Overhaul** | Lógica recursiva (CTEs) e modelagem de hierarquias organizacionais.     |
+| **Spot the Sale** | *Joins* não tradicionais baseados em intervalos de datas. |
+| **Booking Breakdown** | Expansão de intervalos de datas e filtragem avançada. |
+| **The Price is Right** | Técnicas de *Slowly Changing Dimensions* (SCD). |
+| **Streak Leaderboard** | Comparações de datas, funções LAG e lógica de sequências (*streaks*). |
+| **Cart Combos** | *Market Basket Analysis* (Análise de afinidade) e *Self-joins*. |
+| **Org Chart Overhaul** | Lógica recursiva (CTEs) e modelagem de hierarquias organizacionais. |
 
 ## 📁 Estrutura do Projeto
 Cada desafio possui sua própria pasta contendo:
