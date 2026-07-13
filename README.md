@@ -20,7 +20,7 @@ Como um profissional focado em dados, utilizo estes desafios para consolidar té
 
 Os exercícios estão organizados abaixo por nível de dificuldade, detalhando o contexto de negócio e as principais técnicas de SQL praticadas em cada um.
 
-|| 🧩 Desafio | 🎯 Habilidades Técnicas Praticadas |
+| 🧩 Desafio | 🎯 Habilidades Técnicas Praticadas |
 | :--- | :--- |
 | **Rolling Up, Looking Back** | Agrupamentos e análise de variação mês a mês (MoM). |
 | **Final Form** | Desduplicação de registros, priorizando a linha mais recente. |
