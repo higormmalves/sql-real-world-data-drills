@@ -12,3 +12,5 @@ Notes:
     Day 30 is included in the readmission window
 
     Assume that all records in the dataset have had a full 30-day follow-up window
+
+Link=https://mavenanalytics.io/data-drills/readmission-radar
