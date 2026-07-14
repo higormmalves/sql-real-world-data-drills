@@ -1,0 +1,26 @@
+Making the Cut
+Your Objective
+
+Your dataset contains finish times for 37,250 marathon runners, along with their age, gender, and half-marathon split.
+
+Your task is to calculate what percentage of the field finished within each of the following time bands:
+
+    Sub 3:00
+
+    3:00 - 3:30
+
+    3:30 - 4:00
+
+    4:00 - 4:30
+
+    4:30 - 5:00
+
+    5:00 - 5:30
+
+    5:30 - 6:00
+
+    6:00+
+
+NOTE: These bands should be lower-inclusive, meaning that a 3:30:00 finish time would fall under the 3:30 - 4:00 band, not 3:00 - 3:30.
+
+Link:https://mavenanalytics.io/data-drills/making-the-cut
