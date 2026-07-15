@@ -12,7 +12,7 @@ SELECT *
 FROM property_sales
 WHERE zip_code = '10011';
 
---Solutio
+--Solution
 WITH price_per_zip AS (
 	SELECT 
 		zip_code,
